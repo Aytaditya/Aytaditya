@@ -15,7 +15,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aytaditya&" alt="aytaditya" /></p>
 
 
-- 🌱 I’m currently learning **MERN stack Development and Android app development**
+- 🌱 I’m currently learning **Blockchain and Android app development**
 
 - 🔭 I’m currently working on **Hither-Chatting Web Application**
 
