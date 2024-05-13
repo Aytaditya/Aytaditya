@@ -12,7 +12,9 @@
 
 - 🌱 I’m currently learning **Blockchain and Android app development**
 
-- 🔭 I’m currently working on **Hither-Chatting Web Application**
+ - 🌱 I'm currently learning how to implement Docker within our projects to streamline development, deployment, and scalability.
+
+- 🔭 I’m currently working on **Git Forge**
 
 - 👨‍💻My Portfolio [https://whimsical-crostata-de6c67.netlify.app/](https://whimsical-crostata-de6c67.netlify.app/)
 
