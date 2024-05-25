@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Git Forge**
 
-- 👨‍💻My Portfolio [https://whimsical-crostata-de6c67.netlify.app/](https://aditya3d-portfolio.vercel.app/)
+- 👨‍💻My Portfolio [Aditya-Portfolio](https://aditya3d-portfolio.vercel.app/)
 
 - 💬 Ask me about **MERN stack and App dev**
 
