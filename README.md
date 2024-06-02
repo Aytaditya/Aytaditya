@@ -22,12 +22,14 @@
 
 - 📫 How to reach me **adityaaryan531@gmail.com**
 
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aytaditya&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aytaditya&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aytaditya&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub stats" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=Aytaditya&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aytaditya&theme=radical&hide_border=false)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aytaditya&theme=radical&hide_border=false" alt="GitHub streak stats" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
