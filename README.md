@@ -22,7 +22,8 @@
 
 - 📫 How to reach me **adityaaryan531@gmail.com**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aytaditya&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aytaditya&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
 ![](https://github-readme-stats.vercel.app/api?username=Aytaditya&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aytaditya&theme=radical&hide_border=false)
@@ -37,6 +38,7 @@
 <a href="https://twitter.com/aytaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aytaditya" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aditya-aryan-3aa235249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-aryan-3aa235249/" height="30" width="40" /></a>
 </p>
+
 
 
 
