@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Blockchain and Android app development**
 
- - 📖 I'm currently learning how to implement Docker within our projects to streamline development, deployment, and scalability.
+ - 📖 I'm currently learning NextJs.
 
 - 🔭 I’m currently working on **SnapGram**
 
