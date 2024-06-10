@@ -23,7 +23,7 @@
 - 📫 How to reach me **adityaaryan531@gmail.com**
 
 <div align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aytaditya&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aytaditya&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aytaditya&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub stats" />
 </div>
 
