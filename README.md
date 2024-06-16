@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aytaditya&label=Profile%20views&color=0e75b6&style=flat" alt="aytaditya" /> </p>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aytaditya&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack:
