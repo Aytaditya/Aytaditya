@@ -33,6 +33,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aytaditya&theme=radical&hide_border=false" alt="GitHub streak stats" />
 </div>
 
+## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Github Summary
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aytaditya&theme=radical" alt="stats" />
+</div>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -42,7 +48,6 @@
 <a href="https://twitter.com/aytaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aytaditya" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aditya-aryan-3aa235249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-aryan-3aa235249/" height="30" width="40" /></a>
 </p>
-
 
 
 
