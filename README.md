@@ -14,7 +14,7 @@
 
  - 📖 I'm currently learning NextJs.
 
-- 🔭 I’m currently working on **SnapGram**
+- 🔭 I’m currently working on **Avax-Gods: A NFT Web3 Card Game**
 
 - 👨‍💻My Portfolio [Aditya-Portfolio](https://aditya3d-portfolio.vercel.app/)
 
