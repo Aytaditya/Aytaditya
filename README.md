@@ -14,7 +14,7 @@
 
  - 📖 Selected as Blockchain Developer Intern for **TSOC'24**.
 
-- 🔭 I’m currently working on **Avax-Gods: A NFT Web3 Card Game**
+- 🔭 I’m currently working on **OnlyHorse**
 
 - 👨‍💻My Portfolio [Aditya-Portfolio](https://aditya3d-portfolio.vercel.app/)
 
