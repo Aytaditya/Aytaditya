@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **OnlyHorse**
 
-- 👨‍💻My Portfolio [Aditya-Portfolio](https://aditya3d-portfolio.vercel.app/)
+- 👨‍💻My Portfolio [Aditya-Portfolio](https://adityaportfolio-eight.vercel.app/)
 
 - 📫 How to reach me **adityaaryan531@gmail.com**
 
