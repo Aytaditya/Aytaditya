@@ -50,7 +50,7 @@
 <a href="https://twitter.com/aytaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aytaditya" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aditya-aryan-3aa235249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-aryan-3aa235249/" height="30" width="40" /></a>
 </p>
- <a href="https://aditya3d-portfolio.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+ <a href="https://adityaportfolio-eight.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 
 
 
