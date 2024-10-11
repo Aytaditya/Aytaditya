@@ -32,18 +32,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aytaditya&theme=radical&hide_border=false" alt="GitHub streak stats" />
 </div>
 
-## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Github Summary
-<div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aytaditya&theme=radical" alt="stats" />
-</div>
-
-<div align="center" style="margin-top:20px;">
-  <img  width="700" style="margin-top:20px;" src="https://github-readme-activity-graph.vercel.app/graph?username=Aytaditya&theme=synthwave-84&true&hide_border=true" />
-</div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
