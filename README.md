@@ -24,12 +24,13 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aytaditya&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aytaditya&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aytaditya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="250" alt="languages graph"  />
+  
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aytaditya&theme=radical&hide_border=false" alt="GitHub streak stats" />
+ <img  src="https://github-readme-stats.vercel.app/api?username=Aytaditya&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub stats" />
 </div>
 
 
