@@ -17,9 +17,7 @@
 
 - 🌱 I’m currently learning **Blockchain**, **DevOps**.
 
- - 📖 Selected as Blockchain Developer Intern for **TSoC'24**.
-
-- 🔭 I’m currently working on **OnlyHorse**
+- 📖 Selected as Blockchain Developer Intern for **TSoC'24**.
 
 - 👨‍💻My Portfolio [Aditya-Portfolio](https://adityaportfolio-eight.vercel.app/)
 
