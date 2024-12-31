@@ -27,8 +27,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aytaditya&theme=radical&hide_border=false" alt="GitHub streak stats" />
- <img  src="https://github-readme-stats.vercel.app/api?username=Aytaditya&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aytaditya&theme=radical&hide_border=false&include_all_commits=false&count_private=true" height="200" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aytaditya&theme=radical&hide_border=false" height="200" alt="GitHub streak stats" />
 </div>
 
 
