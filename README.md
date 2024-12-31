@@ -19,7 +19,7 @@
 
 - 📖 Selected as Blockchain Developer Intern for **TSoC'24**.
 
-- 👨‍💻My Portfolio [Aditya-Portfolio](https://adityaportfolio-eight.vercel.app/)
+- 👨‍💻 Portfolio [Aditya-Portfolio](https://adityaportfolio-eight.vercel.app/)
 
 - 📫 How to reach me **adityaaryan531@gmail.com**
 
@@ -28,7 +28,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aytaditya&theme=radical&hide_border=false&include_all_commits=false&count_private=true" height="200" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aytaditya&theme=radical&hide_border=false" height="200" alt="GitHub streak stats" />
 </div>
 
 
@@ -49,4 +48,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=27F7FE&center=true&width=600&lines=Blockchain+Developer+%7C+Full+Stack+Developer;Always+Learning+%7C+AI+Enthusiast+%7C+Coder;Open+to+Collaborations+and+Innovations!" alt="Aditya's Banner" />
 </div>
+
+
+
+
+
 
