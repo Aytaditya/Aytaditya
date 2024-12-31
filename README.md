@@ -46,4 +46,7 @@
 </p>
 
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=27F7FE&center=true&width=600&lines=Blockchain+Developer+%7C+Full+Stack+Developer;Always+Learning+%7C+AI+Enthusiast+%7C+Coder;Open+to+Collaborations+and+Innovations!" alt="Aditya's Banner" />
+</div>
 
