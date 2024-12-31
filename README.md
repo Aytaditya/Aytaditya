@@ -28,6 +28,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aytaditya&theme=radical&hide_border=false&include_all_commits=false&count_private=true" height="200" alt="GitHub stats" />
+   <img src="https://api.githubtrends.io/user/svg/Aytaditya/repos?time_range=one_year&include_private=True&group=private&theme=synthwaves" alt="error"/>
 </div>
 
 
@@ -48,9 +49,4 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=27F7FE&center=true&width=600&lines=Blockchain+Developer+%7C+Full+Stack+Developer;Always+Learning+%7C+AI+Enthusiast+%7C+Coder;Open+to+Collaborations+and+Innovations!" alt="Aditya's Banner" />
 </div>
-
-
-
-
-
 
