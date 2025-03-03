@@ -24,8 +24,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aytaditya&theme=radical&hide_border=false&include_all_commits=false&count_private=true" height="200" alt="GitHub stats" />
-      <img src="https://api.githubtrends.io/user/svg/Aytaditya/langs?time_range=three_months&include_private=True&compact=True&theme=synthwaves" height="200" alt="stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aytaditya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="285" alt="languages graph"  />
    <img src="https://api.githubtrends.io/user/svg/Aytaditya/repos?time_range=three_months&include_private=True&group=private&theme=synthwaves" alt="stats"/>
 </div>
 
