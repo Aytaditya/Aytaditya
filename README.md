@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aytaditya&label=Profile%20views&color=0e75b6&style=flat" alt="aytaditya" /> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aytaditya&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Aytaditya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aytaditya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="250" alt="languages graph"  />
@@ -45,8 +45,16 @@
   </a>
 </p>
 
-
+<!-- Contribution Snake -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=27F7FE&center=true&width=600&lines=Blockchain+Developer+%7C+Full+Stack+Developer;Always+Learning+%7C+AI+Enthusiast+%7C+Coder;Open+to+Collaborations+and+Innovations!" alt="Aditya's Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=120&section=footer"/>
 
