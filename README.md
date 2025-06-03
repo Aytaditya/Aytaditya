@@ -26,10 +26,16 @@
 ## 📊 GitHub Stats:
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aytaditya&theme=radical&hide_border=false&include_all_commits=false&count_private=true" height="200" alt="GitHub stats" />
-   <img src="https://api.githubtrends.io/user/svg/Aytaditya/repos?time_range=three_months&include_private=True&group=private&theme=synthwaves" alt="stats"/>
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aytaditya&theme=2077" alt="Profile Details" style="display:inline-block; vertical-align:top; margin-right: 10px;"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aytaditya&theme=2077" alt="Most Commit Language" style="display:inline-block; vertical-align:top; margin-right: 10px;"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aytaditya&theme=2077" alt="GitHub Stats" style="display:inline-block; vertical-align:top;"/>
+</p>
+
+
 
 
 ## 🤝 Connect with Me:
