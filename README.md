@@ -13,7 +13,7 @@
 ## 💻 Tech Stack:
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,py,solidity,firebase,github,netlify,vercel,bootstrap,express,git,nodejs,pug,react,remix,tailwind,mongodb,postman,redux,docker,heroku,sass,ts,nextjs,vite,gcp,bun,svelte,gitlab,postgres,mysql,wordpress,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,py,solidity,firebase,github,netlify,vercel,bootstrap,express,git,nodejs,pug,react,remix,tailwind,mongodb,postman,redux,docker,heroku,sass,ts,nextjs,vite,gcp,bun,svelte,gitlab,postgres,mysql,wordpress,fastapi,golang)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 
