@@ -7,7 +7,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Aytaditya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aytaditya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="250" alt="languages graph"  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aytaditya&layout=compact&theme=radical&hide_border=true"
+    alt="Top languages" />
 </div>
 
 ## 💻 Tech Stack:
@@ -50,6 +52,8 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+
 
 
 <!-- Footer Wave -->
